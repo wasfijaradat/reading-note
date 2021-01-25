@@ -18,7 +18,7 @@ git command --help
 man git-command
 ``` 
 
-## Terminology
+## Terminology <br>
 ___
 Repo
 ?
