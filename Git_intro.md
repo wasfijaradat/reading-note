@@ -8,14 +8,14 @@ You can access a variety of GUI clients for Mac, Windows, and Linux via the foll
 [GUI clients](https://git-scm.com/downloads/guis). <br> <br>
 *for more info u can get into* 
 >help <br>
-*by pasting the commands below in GIT temrinal and commit them*.
+*by pasting the commands below in GIT and commit them*. <br>
 ```
 git help command
 
 git command --help
 
 man git-command
-```
+``` <br>
 ## Terminology
 ___
 Repo
@@ -37,7 +37,7 @@ Head
 ?
 Points to the most recent commit
 ___ 
-
+<br>
 ```mermaid
 graph TD;
     A-->B;
