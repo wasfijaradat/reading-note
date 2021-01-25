@@ -15,7 +15,7 @@ git help command
 git command --help
 
 man git-command
-``` <br>
+``` 
 ## Terminology
 ___
 Repo
@@ -37,11 +37,3 @@ Head
 ?
 Points to the most recent commit
 ___ 
-<br>
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
