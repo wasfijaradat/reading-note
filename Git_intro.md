@@ -9,6 +9,7 @@ You can access a variety of GUI clients for Mac, Windows, and Linux via the foll
 *for more info u can get into* 
 >help <br>
 *by pasting the commands below in GIT and commit them*. <br>
+
 ```
 git help command
 
@@ -16,6 +17,7 @@ git command --help
 
 man git-command
 ``` 
+
 ## Terminology
 ___
 Repo
