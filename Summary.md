@@ -26,4 +26,14 @@ A repository is usually used to organize a single project. Repositories can cont
  ?
  to assign the source and theme of ur webpage
  ___
- 
+ ___
+ theme
+ ?
+ to select a ready made graphical and colorful shape of ur webpage
+ ___
+## complex
+___
+repository 
+?
+a sub-platform inside GitHub where you can sub categorize ur created webpages
+____
