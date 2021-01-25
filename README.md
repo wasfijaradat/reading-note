@@ -9,10 +9,7 @@ A growth mindset believes that one’s fundamental abilities can be developed th
 
 Rule of thums for a great mindset|
 
----------------------------------
-1 |DON NOT avoid challenges BUT embrace them
----------------------------------------------
-2 |DO NOT lose focus BUT stay persisted
+***DON NOT avoid challenges BUT embrace them***
 
 **contact the author**
 
