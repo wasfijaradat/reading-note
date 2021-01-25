@@ -7,7 +7,8 @@ A growth mindset believes that one’s fundamental abilities can be developed th
 1. [instagram pages](https://www.instagram.com/thegrowthmindset_/?igshid=1nanxpfs1zxcy).
 1. [linkedIn pages](https://www.linkedin.com/company/growthmindsetinternational/posts/?feedView=all).
 
-Rule of thums for a gret mindset|
+Rule of thums for a great mindset|
+
 ---------------------------------
 1 |DON NOT avoid challenges BUT embrace them
 ---------------------------------------------
