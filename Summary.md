@@ -50,7 +50,7 @@ ____
 
 **before u start the following exercise, watch this vid to explore basics of GitHub markdown stntax**
 
- 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=ci3W1T88mzw)
 
 # exercise 
 Q | A
