@@ -8,6 +8,7 @@ A growth mindset believes that one’s fundamental abilities can be developed th
 1. [linkedIn pages](https://www.linkedin.com/company/growthmindsetinternational/posts/?feedView=all).
 
 **contact the author**
+
 phone|email
 ------------
 079000000|wasfijar@gmail.com
