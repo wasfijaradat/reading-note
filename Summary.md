@@ -19,6 +19,7 @@ A repository is usually used to organize a single project. Repositories can cont
  *** Hello GitHub ***
  ```
  * commit ur changes and deploy ur page 
+ 
  # Lesson Terminology
  
  ## Basics
@@ -58,4 +59,5 @@ ____
 Q | A
 --|--------------------
 What is the most imortant benifit of GitHub for a coder? |
+
 Mention three Markdown syntax u can use to design ur first webpage |
