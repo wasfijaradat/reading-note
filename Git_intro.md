@@ -18,7 +18,7 @@ git command --help
 man git-command
 ``` 
 
-## Terminology <br>
+## Terminology 
 ___
 Repo
 ?
@@ -38,4 +38,4 @@ ___
 Head
 ?
 Points to the most recent commit
-___ 
+___
