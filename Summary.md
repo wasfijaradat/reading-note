@@ -58,6 +58,6 @@ ____
 # exercise 
 
 | Q | A |
-| -- | -------------------- |
+| -- | -- |
 | What is the most imortant benifit of GitHub for a coder? |
 | Mention three Markdown syntax u can use to design ur first webpage |
