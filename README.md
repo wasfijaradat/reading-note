@@ -13,6 +13,6 @@ Rule of thums for a great mindset|
 
 **contact the author**
 
-phone|email
-------------
-079000000|wasfijar@gmail.com
+| phone |email |
+| ----- | ---- |
+| 79000000 | wasfijar@gmail.com |
