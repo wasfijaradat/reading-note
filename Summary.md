@@ -47,3 +47,13 @@ ____
 1. Review and merge Pull requests 
 1. Browse your files and codes
 1. Discover new and trending repositories
+
+**before u start the following exercise, watch this vid to explore basics of GitHub markdown stntax**
+
+ 
+
+# exercise 
+Q | A
+--|--------------------
+What is the most imortant benifit of GitHub for a coder? |
+Mention three Markdown syntax u can use to design ur first webpage |
