@@ -56,7 +56,8 @@ ____
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=ci3W1T88mzw)
 
 # exercise 
+
 | Q | A |
-|-- |-------------------- |
+| -- | -------------------- |
 | What is the most imortant benifit of GitHub for a coder? |
 | Mention three Markdown syntax u can use to design ur first webpage |
