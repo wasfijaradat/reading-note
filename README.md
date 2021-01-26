@@ -2,6 +2,8 @@
 ## This page is designed by wasfi for the first time
 
 **following is the ToC**
-|   | page | link | 
-|   | ---- | ---- |
-| 1 | Growth MS | [GM]() |
+<br>
+# Table of Contents
+1. [Gowth minds brief](GM.md)
+1. [Summary of Read02](Summary.md)
+1. [Git introduction](Git_intro)
