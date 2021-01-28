@@ -9,3 +9,4 @@
 1. [Git introduction](Git_intro.md)
 1. [Ducket Chps prep](Ducketprep.md)
 1. [JS summary](JS_sum.md)
+1. [reading laa05](reading5.md)
