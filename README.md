@@ -10,3 +10,4 @@
 1. [Ducket Chps prep](Ducketprep.md)
 1. [JS summary](JS_sum.md)
 1. [reading laa05](reading5.md)
+1. [reading lab06](read06.md)
