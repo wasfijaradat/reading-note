@@ -1,7 +1,5 @@
 # HTML & CSS
 ## Introduction + Chapter 1
-<img src="https://images.unsplash.com/photo-1575089976121-8ed7b2a54265?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80">
-
 ### **The main goal of a web programmer is to design attractive and usable websites though thus, fo a brgginer it is highly recommended and important to start wiht learning HTML and CSS basically, as these two make up the main two modules of a website which are:**
 - *WHAT the content of the website will be, and how it can be structured?*
 
