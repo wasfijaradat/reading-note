@@ -5,12 +5,15 @@
 
 - *HOW this content would be laid out and  presented to the user.*
 
+<br>
+
 ***Keywords:***
 | Term          | Meaning       |
 | ------------- | ------------- |
 | Browsers | a software used to access websites by typing a web address  |
 | Server   | after asking the browser to open the link, the request will be sent via internet to a special computer called server |
 
+<br>
 
 ***So, the HTML code perfomrs as the organizer of the webpage, using **elements** and **tags** which act like containers to the elements and the CSS code is responsible to style up this layout to be more attracticve and easy to be explored by users.***
 
@@ -53,6 +56,9 @@ the attribute tells us more about the element in the following way e.g `<p lang=
 ## **History of HTML**
 Since the web was first created, there have been several different versions of HTML. Each new version was designed to be an improvement on the last (with new elements and attributes added and older code removed). There have also been several versions of each browser used to view web pages, each of which implements new code. Not all web users, however, have the latest browsers installed on their computers, which means that not everyone will be able to view all of the latest features and markup.
 Although HTML 4 had some presentational elements to control the appearance of pages, authors are not recommended to use them any more. (Examples include the `<center>` element for centering content on a page, `<font>` for controlling the appearance of text, and `<strike>` to put a line through the text — all of these can be achieved with CSS instead.) In HTML5, web page authors do not need to close all tags, and new elements and attributes will be introduced. At the time of writing, the HTML5 specification had not been completed, but the major browser makers had started to implement many of the new features, and web page authors were rapidly adopting the new markup.
+
+<br>
+
 ***Keywords:***
 | Term          | Meaning       |
 | ------------- | ------------- |
@@ -61,6 +67,7 @@ Although HTML 4 had some presentational elements to control the appearance of pa
 | ID ATTRIBUTE | used to uniquely identify that element from other elements on the page. ```<p id="pullquote">Any thing</p>```|
 |CLASS ATTRIBUTE| used to identify several elements as being different from the other elements on the page ```<p class="important">```|
 |META DATA| used to supply all kinds of information about your web page. ```<meta>```|
+
 <br>
 
 ### WHAT is the difference between BLOCK elements, INLINE elements and DIV element?
@@ -136,21 +143,25 @@ Gallery->>Motors
 - lowercase the first letter in the first word and upper case the one of the second word
 
 ## Terminology:
+
  ___
  Variables
  ?
 temporarily store the bits of information it needs to do its job
  ___
+
  ___
  DATA TYPES
  ?
  JavaScript distinguishes between numbers, strings, and true or false values known as Booleans.
  ___
+
  ___
 String 
 ?
 The strings data type consists of letters and other characters.
  ____
+
 
  ***code example for creating variables***
  ```
@@ -159,7 +170,7 @@ var message;
 username = 'Molly';
 message = 'See our upcoming range';
 ```
-## The following Q&A outline will list the main introductory concepts of JS:
+## The following Q&A outline will list the main introductory concepts of JavaScript:
 - **What is a script?**
 a script is a series of instructions that the computer can follow to acieve a goal, scripts usually analogue to cooking recipes, handbooks or manuals.
 - **What are the parts of the script to be executed by the browser?**
