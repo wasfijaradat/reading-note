@@ -5,7 +5,7 @@
 |No|note title|date submitted|
 |--|----------|----|
 |1.| [Class-01- HTML, CSS and JS](201/class-01.md)|06/02/2021|
-|2.|                                              |          |
+|2.| [Class-02- HTML, CSS and JS](201/class-02.md)|07/02/2021|
 |3.|                                              |          |
 |4.|                                              |          |
 |5.|                                              |          |
