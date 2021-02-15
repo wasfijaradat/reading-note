@@ -10,7 +10,7 @@
 |4.| [Read 04- Readings : HTML Links, CSS Layout, JS Functions](201/class-04.md)|   Missing       |
 |5.| [Read 05- Readings : Images, Color, Tex](201/class-05.md)|10/02/2021|
 |6.| [Read 06- Readings : Problem Domain, Objects, and the DOM](201/class-06.md)|13/02/2021|
-|7.|                                              |          |
+|7.| [Read 07- Readings : Object-Oriented Programming, HTML Tables](201/class-07.md)|14/02/2021|
 |8.|                                              |          |
 |9.|                                              |          |
 |10.|                                              |          |
