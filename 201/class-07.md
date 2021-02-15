@@ -8,9 +8,6 @@
 inside the DOM we have Nodes, a node is anywhere you have an opeining and closing tags `<header><a>Link here!</a></header>` this is a node. 
 and inside of these nodes you gonna have other nodes nested. 
 
-![nodes layout](imges/nodesss.png)
-
-
 WHY do we need to know this!
 When u load a website into the browser u r going to get a node tree gets created as soon as the browser loads the website, in real time when we want to make changes in java script, html and css will be loaded first because the browser creats a DOM when the website is loaded. 
 
