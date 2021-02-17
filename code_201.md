@@ -12,7 +12,7 @@
 |6.| [Read 06- Readings : Problem Domain, Objects, and the DOM](201/class-06.md)|13/02/2021|
 |7.| [Read 07- Readings : Object-Oriented Programming, HTML Tables](201/class-07.md)|14/02/2021|
 |8.| [Read 08- Readings : CSS Layout](201/class-08.md)|17/02/2021|
-|9.|                                              |          |
+|9.| [Read 09- Readings : Forms and Events](201/class-09.md)|17/02/2021|
 |10.|                                              |          |
 |11.|                                              |          |
 |12.|                                              |          |
