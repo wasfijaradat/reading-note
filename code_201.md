@@ -13,9 +13,9 @@
 |7.| [Read 07- Readings : Object-Oriented Programming, HTML Tables](201/class-07.md)|14/02/2021|
 |8.| [Read 08- Readings : CSS Layout](201/class-08.md)|17/02/2021|
 |9.| [Read 09- Readings : Forms and Events](201/class-09.md)|17/02/2021|
-|10.|                                              |          |
-|11.|                                              |          |
-|12.|                                              |          |
-|13.|                                              |          |
+|10.|[Read 09- Readings : Forms and Events](201/class-09.md)|17/02/2021|
+|11.|[Read 10- Readings : Forms and Events]201/class-10.md|Missing|
+|12.|[Read 11- Readings : Audio, Video, Images](201/class-11.md)|Missing|
+|13.|[Read 12- Readings : Chart.js, Canvas](201/class-12.md)|22/02/2021|
 |14.|                                              |          |
 |15.|                                              |          |
